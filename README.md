@@ -16,7 +16,7 @@
 <tr>
 <td>1</td>
 <td>22 октября 2022</td>
-<td>Знакомство с Python, git, PyCharm, Colab, Jupyter Notebook, <a href=".pdf">презентация</a> и <a href=".ipynb">тетрадка</a></td>
+<td>Знакомство с Python, git, PyCharm, Colab, Jupyter Notebook, <a href="https://github.com/AnnSenina/Python_for_CL/blob/main/slides/Python_CL_2022.pdf">презентация</a> и <a href=".ipynb">тетрадка</a></td>
 <tr>
 <td>2</td>
 <td>29 октября 2022</td>
