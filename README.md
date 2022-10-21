@@ -77,6 +77,8 @@
 
 Всего 2 домашних задания: после **тем №№ 3 и 8**
 
+# Встречи
+
 ## Знакомство с Python, git, PyCharm, Colab, Jupyter Notebook 22.10.2022
 Установим Python:
 
@@ -105,3 +107,10 @@ Git и GitHub
 - Linux - команда в терминале для вашего дистрибутива со [страницы](https://git-scm.com/download/linux)  
 
 Начало работы с Git (через командную строку) смотрим в [githowto](https://githowto.com/ru)
+
+# Самостоятельная работа
+- [интерактивный учебник по Python](https://snakify.org/ru)
+- [тренажер с упражнениями на все темы](https://www.w3resource.com/python-exercises/)
+- [тренажер по Python и математике от Stepik]()
+- [введение в Python](https://app.datacamp.com/learn/courses/intro-to-python-for-data-science), [Data Science in Python: найдите похитителя золотистого ретривера!](https://app.datacamp.com/learn/courses/introduction-to-data-science-in-python) и другие курсы на DataCamp
+- [первые уроки Python-разработчика на Яндекс.Практикум](https://practicum.yandex.ru/profile/backend-developer/)
