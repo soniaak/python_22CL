@@ -93,7 +93,7 @@
 - [Google Colab](https://colab.research.google.com) (онлайн-тетрадь, без установки)
 
 Обучение
-- [как работать в PyCharm](https://py-charm.blogspot.com/2017/09/blog-post.html)
+- [как работать в PyCharm](https://www.jetbrains.com/ru-ru/pycharm/download/)
 - [как работать в jupyter notebook](https://devpractice.ru/python-lesson-6-work-in-jupyter-notebook/), [Google Colab](https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c)
 
 Git и GitHub
